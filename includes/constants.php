@@ -16,7 +16,7 @@ define( 'PLUGIN_VERSION', '{{version}}' );
  *
  * @since {{version}}
  */
-define( 'PLUGIN_SLUG', '{{slug}}' );
+define( 'PLUGIN_SLUG', '{{plugin_slug}}' );
 
 /**
  * The plugin directory path.
